@@ -8,16 +8,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AlexOfTheForest&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexOfTheForest&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AlexOfTheForest&theme=oldie&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=AlexOfTheFores1)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+###
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<br clear="both">
 
----
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 [![](https://visitcount.itsvg.in/api?id=AlexOfTheForest&icon=5&color=1)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
