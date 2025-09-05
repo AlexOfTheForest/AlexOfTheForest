@@ -7,13 +7,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=AlexOfTheForest&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AlexOfTheForest&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexOfTheForest&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ###
 [![](https://visitcount.itsvg.in/api?id=AlexOfTheForest&icon=5&color=1)](https://visitcount.itsvg.in)
 ## 
 <img src="https://raw.githubusercontent.com/AlexOfTheForest/AlexOfTheForest/refs/heads/main/github-user-contribution.svg" alt="Snake animation" />
-## 
-
 ## 💰 You can help me by Donating
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/AlexOfTheForest) 
 
